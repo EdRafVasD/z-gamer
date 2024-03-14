@@ -76,6 +76,10 @@ footer {
 
 .footer-container {
     padding: 1em;
+    display: flex;
+    justify-content:center;
+    flex-direction: column;
+    align-items: center;
 }
 
 .footer-container nav ul {
@@ -293,3 +297,16 @@ footer {
     }
 }
 
+
+.redes-sociales {
+    display: flex;
+    gap: 2em;
+}
+
+.redes-sociales li a i{
+    font-size: 2em;
+}
+
+.redes-sociales li a i:hover{
+    color: black;
+}
