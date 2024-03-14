@@ -1,0 +1,28 @@
+h1 {
+    color: blueviolet;
+}
+
+ol li {
+    color: blue;
+}
+
+p {
+    background-color: aqua;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.menu-container {
+    color: #fff;
+    background-color: #97da59;
+    padding: 20px 0;
+}
+
+.menu {
+    border: 1px solid #fff;
+    width: 900px;
+}
